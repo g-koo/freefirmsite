@@ -40,7 +40,7 @@ collections:
   - posts
 
 #baseurl: "" # the subpath of your site, e.g. /blog
-#url: "http://garykoo.com" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
