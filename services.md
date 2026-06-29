@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Services
+title: Practice Areas
 ---
 
-# Services
+# Practice Areas
 
 <div class="">
 	{% for service in site.data.services %}
