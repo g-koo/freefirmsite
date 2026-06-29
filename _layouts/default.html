@@ -4,9 +4,9 @@
   {%- include head.html -%}
 
   <body>
-
-    {%- include header.html -%}
-    <header class="masthead" style="background-image: url('{{site.background_image}}');background-size: cover; height: 95vh;">
+      <header class="masthead" style="background-image: url('{{site.background_image}}');background-size: cover; height: 95vh;">
+        {%- include header.html -%}
+  
       <div class="py-5">
         <div class="container page-content py-5">
             {{ content }}
