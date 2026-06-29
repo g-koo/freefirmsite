@@ -1,14 +1,11 @@
-- name: Corporate
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien. Sed rutrum tincidunt massa, quis pretium sem interdum quis. Suspendisse nec arcu dolor. Proin convallis tempus ligula, congue placerat neque auctor at. Vivamus aliquam massa in luctus cursus. In et mauris nec nunc varius dignissim ac vel diam.
-
-- name: Litigation
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien. Sed rutrum tincidunt massa, quis pretium sem interdum quis. Suspendisse nec arcu dolor. Proin convallis tempus ligula, congue placerat neque auctor at. Vivamus aliquam massa in luctus cursus. In et mauris nec nunc varius dignissim ac vel diam.
-
 - name: Intellectual Property
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien. Sed rutrum tincidunt massa, quis pretium sem interdum quis. Suspendisse nec arcu dolor. Proin convallis tempus ligula, congue placerat neque auctor at. Vivamus aliquam massa in luctus cursus. In et mauris nec nunc varius dignissim ac vel diam.
+  description: Innovation and brand identity are often a company's most valuable assets, and our Intellectual Property practice is dedicated to safeguarding and maximizing their value. We provide comprehensive counsel on securing, enforcing, and commercializing your IP portfolios, helping you register trademarks and copyrights, navigate patent strategies, and protect critical trade secrets in an increasingly competitive and digital marketplace.
+
+- name: Corporate
+  description: Our Corporate Law practice guides businesses through every stage of their lifecycle, from initial formation and structural organization to complex mergers, acquisitions, and eventual exits. We act as trusted strategic partners, helping executives, boards of directors, and entrepreneurs navigate everyday corporate governance, manage regulatory compliance, and structure sophisticated transactions that protect corporate assets while fueling long-term growth.
 
 - name: Commercial
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien. Sed rutrum tincidunt massa, quis pretium sem interdum quis. Suspendisse nec arcu dolor. Proin convallis tempus ligula, congue placerat neque auctor at. Vivamus aliquam massa in luctus cursus. In et mauris nec nunc varius dignissim ac vel diam.
+  description: In a fast-paced market, clear and robust agreements are the foundation of operational success, which is where our Commercial Law team steps in. We specialize in drafting, reviewing, and negotiating the critical contracts that keep your business running smoothly—including vendor agreements, supply chain contracts, licensing deals, and service terms—ensuring your commercial interests are fiercely protected and your transactional liabilities are minimized.
 
-- name: Privacy
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas luctus non elit ac tempor. Aliquam vitae odio a sapien tempus vehicula in at sapien. Sed rutrum tincidunt massa, quis pretium sem interdum quis. Suspendisse nec arcu dolor. Proin convallis tempus ligula, congue placerat neque auctor at. Vivamus aliquam massa in luctus cursus. In et mauris nec nunc varius dignissim ac vel diam.
+- name: Trade
+  description: Our Trade Law practice specializes in high-stakes administrative litigation involving unfair import practices and international trade disputes. We represent both domestic industries seeking protection and global companies defending their market access in rapid, specialized proceedings focused on intellectual property infringement at the border, as well as investigations into unfairly subsidized or dumped foreign goods. Our team is adept at navigating these unique, accelerated forums to secure powerful, sweeping remedies—such as blocking infringing products from entering the country entirely—or protecting your supply chain from aggressive trade enforcement challenges.
