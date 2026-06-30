@@ -1,3 +1,42 @@
 // This is the place to place Bootstrap-related CSS customizations.
 // As example you can start by importing the _bootswatch.scss file from one of the
 // theme provided by https://bootswatch.com .
+
+.masthead {
+  display: flex;
+  align-items: center;
+}
+
+.masthead .container,
+.masthead .row,
+.masthead .col-12 {
+  height: auto;
+}
+
+@media (max-width: 767.98px) {
+  .masthead {
+    height: auto !important;
+    min-height: 100vh;
+    padding-top: 6rem;
+    padding-bottom: 3rem;
+  }
+
+  .masthead h1 {
+    font-size: 2rem;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    overflow-wrap: anywhere;
+  }
+
+  .masthead .lead {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+    overflow-wrap: anywhere;
+  }
+
+  .masthead .btn {
+    margin-top: 0.5rem;
+  }
+}
+
