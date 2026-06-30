@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-# About Our Firm
+# About The Firm
 
 We provide sophisticated legal counsel tailored to the speed, scale, and complexity of the modern marketplace. We serve as strategic partners to entrepreneurs, corporations, and global innovators, offering the agile, high-stakes advocacy required to protect your business interests from the boardroom to the border.
 
